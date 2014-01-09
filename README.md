@@ -72,6 +72,7 @@ Refer to [input Chinese in Sublime text 3](http://learninginfree.blogspot.com/20
 
 1. Download sublime-imfix.so to your sublime installation dir, such as "/opt/sublime_text/sublime-imfix.so"
 2. Edit sublime_text.desktop, such as "/usr/share/applications/sublime_text.desktop"
+
 ```
 [Desktop Entry][...]Exec=env LD_PRELOAD=/opt/sublime_text/sublime-imfix.so /opt/sublime_text/sublime_text %F[...] 
 [Desktop Action Window][...]Exec=env LD_PRELOAD=/opt/sublime_text/sublime-imfix.so /opt/sublime_text/sublime_text -n[...] 
