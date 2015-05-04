@@ -3,8 +3,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_size": 12,
 	"ignored_packages": [
-		"Vintage",
-		"Markdown"
+		"Vintage"
 	],
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
